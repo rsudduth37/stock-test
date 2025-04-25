@@ -1,0 +1,23 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.env
+env/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.bak
+
+# Output files (optional, if you test locally)
+processed_statements/
+*.xlsx
+
+# IDE files
+.idea/
+.vscode/
+
+# Flask instance folder (contains uploads, temp templates)
+instance/
